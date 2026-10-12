@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "example-cheap-fairways",
+      "name": "Cheap Fairways (example)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "Fairways cost 100 a tile instead of 300, firm fairways 200. An example of a data mod.",
+      "url": "dist/example-cheap-fairways-1.0.0.zip",
+      "sha256": "654e6eaeacbd41c76533bcd90197442213aaf536455140609a86032dbeaabaa8",
+      "size": 1531,
+      "requires": [
+        "original >= 1.0"
+      ]
+    },
+    {
+      "id": "example-scenario-desert-challenge",
+      "name": "Desert Challenge (example scenario)",
+      "version": "1.0.0",
+      "kind": "scenario",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "Build a nine-hole desert course near Phoenix on a tight budget, then make it pay. An example of a scenario pack.",
+      "url": "dist/example-scenario-desert-challenge-1.0.0.zip",
+      "sha256": "e5151ca313c8e8f65e97c02633f0817e01127bf9f390e99e61d11cf90baee0c3",
+      "size": 1954,
+      "requires": []
+    },
+    {
+      "id": "example-script-bonus",
+      "name": "Hole-in-One Bonus (example script)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "A sponsor pays a small bonus and tells you when a golfer makes a hole-in-one. An example of a game script.",
+      "url": "dist/example-script-bonus-1.0.0.zip",
+      "sha256": "4418e5975dca4d1082eb89564bdc8ac3a54e5200c8cf9af89b627a7a6d11dbd6",
+      "size": 1753,
+      "requires": []
+    }
+  ]
+}

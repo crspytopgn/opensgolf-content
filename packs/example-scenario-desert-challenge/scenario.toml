@@ -1,0 +1,28 @@
+# Desert Challenge: an example scenario (docs/MODDING.md, section 5). Every field is explained there.
+
+[scenario]
+name = "Desert Challenge"
+description = "The investors bought dry land near Phoenix and give you $60,000. Open nine holes, keep the golfers happy and make the club pay before the end of 2004."
+property = "phoenix"
+start_money = 60000
+difficulty = "moderate"
+intro = "Welcome to the desert! The investors want nine holes open by the end of 2002 and $150,000 in the bank by the end of 2004."
+win_text = "The investors are delighted: the Desert Challenge is won! Play on as long as you like."
+lose_text = "The investors have lost patience: the Desert Challenge is lost. You may play on, but the goals stay missed."
+
+[[goal]]
+id = "nine-holes"
+text = "Open 9 holes by the end of 2002"
+holes = 9
+by_year = 2002
+
+[[goal]]
+id = "fun"
+text = "Reach a fun rating of 30"
+fun = 30
+
+[[goal]]
+id = "bank"
+text = "Have $150,000 in cash by the end of 2004"
+cash = 150000
+by_year = 2004

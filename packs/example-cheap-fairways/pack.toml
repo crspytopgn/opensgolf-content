@@ -1,0 +1,10 @@
+[pack]
+id = "example-cheap-fairways"
+name = "Cheap Fairways (example)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "Fairways cost 100 a tile instead of 300, firm fairways 200. An example of a data mod."
+requires = ["original >= 1.0"]
+conflicts = []

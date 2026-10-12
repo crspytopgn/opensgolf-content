@@ -1,0 +1,10 @@
+[pack]
+id = "example-scenario-desert-challenge"
+name = "Desert Challenge (example scenario)"
+version = "1.0.0"
+kind = "scenario"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "Build a nine-hole desert course near Phoenix on a tight budget, then make it pay. An example of a scenario pack."
+requires = []
+conflicts = []

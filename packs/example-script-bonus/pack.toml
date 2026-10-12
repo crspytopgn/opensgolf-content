@@ -1,0 +1,10 @@
+[pack]
+id = "example-script-bonus"
+name = "Hole-in-One Bonus (example script)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "A sponsor pays a small bonus and tells you when a golfer makes a hole-in-one. An example of a game script."
+requires = []
+conflicts = []

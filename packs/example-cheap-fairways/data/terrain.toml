@@ -1,0 +1,10 @@
+# Fairways for a third of the price. Only the fields given change; everything else about the tile types stays as the
+# base set has it. Money is the game's money as the Build Course panel shows it, in multiples of 100.
+
+[[terrain]]
+id = "fairway"
+cost = 100
+
+[[terrain]]
+id = "firm-fairway"
+cost = 200

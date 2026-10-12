@@ -1,0 +1,18 @@
+# Half price for the big buildings. Each entry names a building by its id and gives only what changes.
+
+[[building]]
+id = "marina"
+price = 50000
+
+[[building]]
+id = "resort-hotel"
+price = 125000
+
+[[building]]
+id = "airstrip"
+price = 250000
+
+# A new name for the Snack Bar in the build panel.
+[[building]]
+id = "snack-bar"
+name = "Hot Dog Stand"

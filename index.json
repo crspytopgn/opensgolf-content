@@ -2,6 +2,21 @@
   "format": 1,
   "packs": [
     {
+      "id": "example-bargain-buildings",
+      "name": "Bargain Buildings (example)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "The big buildings cost half price, and the Snack Bar gets a new name. An example of changing buildings.",
+      "url": "dist/example-bargain-buildings-1.0.0.zip",
+      "sha256": "1a561bd886be68d323fc8ee915f2ed7c47bd3e454378f509479ee89c2eaf845b",
+      "size": 1697,
+      "requires": []
+    },
+    {
       "id": "example-cheap-fairways",
       "name": "Cheap Fairways (example)",
       "version": "1.0.0",
@@ -19,6 +34,36 @@
       ]
     },
     {
+      "id": "example-rank-names",
+      "name": "New Rank Names (example)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "New names for the four course ranks. An example of changing the game's text.",
+      "url": "dist/example-rank-names-1.0.0.zip",
+      "sha256": "d53aca0efa768f6e93e15ba97326803ce590bc0a62cc923cdfbda3366a7732ed",
+      "size": 1341,
+      "requires": []
+    },
+    {
+      "id": "example-rich-start",
+      "name": "Rich Start (example)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "New games start with $300,000 instead of $100,000. The simplest possible mod: one number in one file.",
+      "url": "dist/example-rich-start-1.0.0.zip",
+      "sha256": "8e1eec9d5165802a8faab22e58811b9e1fbd90066a483029f84c28fb69a53d84",
+      "size": 1204,
+      "requires": []
+    },
+    {
       "id": "example-scenario-desert-challenge",
       "name": "Desert Challenge (example scenario)",
       "version": "1.0.0",
@@ -34,6 +79,21 @@
       "requires": []
     },
     {
+      "id": "example-scenario-hawaii",
+      "name": "Hawaii Resort (example scenario)",
+      "version": "1.0.0",
+      "kind": "scenario",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "Build an 18-hole resort course in Hawaii by the end of 2005. An example scenario.",
+      "url": "dist/example-scenario-hawaii-1.0.0.zip",
+      "sha256": "755174ff34237e2cf4f3a8c914cff260608394bac1480f2424479939d72e55b2",
+      "size": 1787,
+      "requires": []
+    },
+    {
       "id": "example-script-bonus",
       "name": "Hole-in-One Bonus (example script)",
       "version": "1.0.0",
@@ -46,6 +106,36 @@
       "url": "dist/example-script-bonus-1.0.0.zip",
       "sha256": "4418e5975dca4d1082eb89564bdc8ac3a54e5200c8cf9af89b627a7a6d11dbd6",
       "size": 1753,
+      "requires": []
+    },
+    {
+      "id": "example-script-sponsor",
+      "name": "Local Sponsor (example script)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "A local business pays $200 a month for every open hole. The shortest useful game script.",
+      "url": "dist/example-script-sponsor-1.0.0.zip",
+      "sha256": "6925f88974b9f9b96075f78890ff45f9f018742758221071336195c6c5d1e997",
+      "size": 1430,
+      "requires": []
+    },
+    {
+      "id": "example-staff-wages",
+      "name": "Staff Pay Rise (example)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "Every employee earns more: a harder game for experienced players. An example of changing staff.",
+      "url": "dist/example-staff-wages-1.0.0.zip",
+      "sha256": "93996963d0d1dc6d8067e1ab7b329e7c7a8191c3012ab0628f4debac81782955",
+      "size": 1356,
       "requires": []
     }
   ]

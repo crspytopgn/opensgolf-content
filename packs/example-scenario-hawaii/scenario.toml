@@ -1,0 +1,29 @@
+# Hawaii Resort: an example scenario (docs/MODDING.md, section 5). Every field is explained there.
+
+[scenario]
+name = "Hawaii Resort"
+description = "A hotel group gives you $250,000 and a stretch of Hawaiian coast. Build them a full resort course."
+property = "hawaii"
+start_money = 250000
+difficulty = "easy"
+intro = "Aloha! The hotel group wants a real resort: 18 holes, 40 members and a fun rating of 50 by the end of 2005."
+win_text = "The hotel group is thrilled: Hawaii Resort is won! Play on as long as you like."
+lose_text = "The hotel group has gone elsewhere: Hawaii Resort is lost. You may play on, but the goals stay missed."
+
+[[goal]]
+id = "eighteen-holes"
+text = "Open 18 holes by the end of 2005"
+holes = 18
+by_year = 2005
+
+[[goal]]
+id = "members"
+text = "Have 40 members by the end of 2005"
+members = 40
+by_year = 2005
+
+[[goal]]
+id = "fun"
+text = "Reach a fun rating of 50 by the end of 2005"
+fun = 50
+by_year = 2005

@@ -1,0 +1,10 @@
+[pack]
+id = "example-bargain-buildings"
+name = "Bargain Buildings (example)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "The big buildings cost half price, and the Snack Bar gets a new name. An example of changing buildings."
+requires = []
+conflicts = []

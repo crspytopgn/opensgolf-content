@@ -1,0 +1,5 @@
+# New names for the course ranks. Each line is KEY :text; the keys are in the game's lang/en.txt.
+STR_RANK_MUNICIPAL                      :Village Links
+STR_RANK_DAILY_FEE                      :Town Course
+STR_RANK_COUNTRY_CLUB                   :Private Club
+STR_RANK_CHAMPIONSHIP                   :Major Venue

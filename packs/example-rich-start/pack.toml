@@ -1,0 +1,10 @@
+[pack]
+id = "example-rich-start"
+name = "Rich Start (example)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "New games start with $300,000 instead of $100,000. The simplest possible mod: one number in one file."
+requires = []
+conflicts = []

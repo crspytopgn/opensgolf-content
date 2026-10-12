@@ -1,0 +1,3 @@
+# Start every new game with three times the money. Only the line given changes; every other money rule stays as it was.
+[economy]
+start_funds = 300000

@@ -1,0 +1,10 @@
+[pack]
+id = "example-rank-names"
+name = "New Rank Names (example)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "New names for the four course ranks. An example of changing the game's text."
+requires = []
+conflicts = []

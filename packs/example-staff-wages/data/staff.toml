@@ -1,0 +1,21 @@
+# A pay rise for everyone: a harder game. `wage` is a new hire's pay, `wage_experienced` an experienced employee's.
+
+[[staff]]
+id = "club-pro"
+wage = 500
+wage_experienced = 1000
+
+[[staff]]
+id = "ranger"
+wage = 300
+wage_experienced = 500
+
+[[staff]]
+id = "groundskeeper"
+wage = 300
+wage_experienced = 600
+
+[[staff]]
+id = "soda-vendor"
+wage = 300
+wage_experienced = 700

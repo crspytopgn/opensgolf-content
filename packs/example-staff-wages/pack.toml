@@ -1,0 +1,10 @@
+[pack]
+id = "example-staff-wages"
+name = "Staff Pay Rise (example)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "Every employee earns more: a harder game for experienced players. An example of changing staff."
+requires = []
+conflicts = []

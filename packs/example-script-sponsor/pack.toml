@@ -1,0 +1,10 @@
+[pack]
+id = "example-script-sponsor"
+name = "Local Sponsor (example script)"
+version = "1.0.0"
+kind = "mod"
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "A local business pays $200 a month for every open hole. The shortest useful game script."
+requires = []
+conflicts = []

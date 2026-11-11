@@ -58,3 +58,9 @@ Rules:
 `tools/build_index.py` from the folders in `packs/` (a GitHub Action runs it on every merge), so never edit them by hand.
 The format is described in the game's
 [docs/CONTENT_INDEX.md](https://github.com/crspytopgn/opensgolf/blob/main/docs/CONTENT_INDEX.md).
+
+## Support the project
+
+OpenSGolf is free and open source. If it's useful to you, you can [sponsor me on GitHub](https://github.com/sponsors/crspytopgn) or [buy me a coffee](https://buymeacoffee.com/crspytopgn). It helps pay for the tools these projects are built with.
+
+More from me: [OpenMCM2](https://github.com/crspytopgn/openmcm2) · [OpenLinks2003](https://github.com/crspytopgn/openlinks2003) · [Pitwall](https://github.com/crspytopgn/pitwall).

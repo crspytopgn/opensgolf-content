@@ -1,0 +1,62 @@
+# The pack's own objects, tool, panel and map view (docs/MODDING.md, section 12).
+
+[[object]]
+id = "nb-road"
+name = "Street"
+description = "joins up with the streets next to it"
+category = "Neighbourhood"
+price = 200
+art = "art/road.png"
+frames = 16
+anchor = [32, 16]
+ground = true
+join = true
+terrain = "rough"
+
+[[object]]
+id = "nb-house"
+name = "House"
+description = "a family moves in and pays association dues"
+category = "Neighbourhood"
+footprint = [2, 2]
+price = 8000
+refund = 2000
+art = "art/house.png"
+views = 4
+frames = 3
+levels = 3
+anchor = [70, 96]
+view = 6
+view_radius = 3
+
+[[object]]
+id = "nb-hall"
+name = "Association hall"
+description = "the residents' association meets here (one only)"
+category = "Neighbourhood"
+footprint = [3, 3]
+price = 30000
+upkeep = 300
+art = "art/hall.png"
+anchor = [105, 138]
+limit = 1
+holes = 3
+view = 15
+view_radius = 6
+
+[[tool]]
+id = "survey"
+name = "Survey a lot"
+description = "click a tile to see what a home site there would be worth"
+
+[[panel]]
+id = "association"
+name = "Residents' association"
+description = "its level, its funds and what it can do"
+
+[[overlay]]
+id = "value"
+name = "Home site values"
+description = "green where a home site would sell best"
+low = "#c02020a0"
+high = "#20c040a0"

@@ -1,0 +1,11 @@
+[pack]
+id = "example-neighbourhood"
+name = "Neighbourhood (example of new objects)"
+version = "1.0.0"
+kind = "mod"
+api = 2
+authors = ["OpenSGolf contributors"]
+license = "CC0-1.0"
+description = "Roads, houses and a residents' association with levels, a panel, a tool and a map view. An example of what packs can add: copy it and make it your own."
+requires = []
+conflicts = []

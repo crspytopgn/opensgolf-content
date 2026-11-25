@@ -25,12 +25,13 @@ for most mods. Start by copying one of the examples below, change a number, and 
 | [Hole-in-One Bonus](packs/example-script-bonus) | a script that reacts to golfers | `scripts/bonus.rhai` |
 | [Hawaii Resort](packs/example-scenario-hawaii) | a scenario with goals | `scenario.toml` |
 | [Desert Challenge](packs/example-scenario-desert-challenge) | a harder scenario | `scenario.toml` |
+| [Neighbourhood](packs/example-neighbourhood) | new buildings, a tool, a panel and a map view with a script (OpenSGolf 0.9.4 or later) | `data/objects.toml`, `scripts/neighbourhood.rhai` |
 
 To try your mod, put its folder in your `packs` folder (next to the program, or `packs` in your save folder; in the
 browser version use "Add a content pack" on the start page), switch it on in **Content packs** and restart.
 
 What a mod can change: money rules, prices, buildings, staff, the sixteen properties, any text, scenarios and goals, and
-game rules through scripts. To see every value the game uses, run `sgtool dump-data somefolder`; the full guide is
+game rules through scripts. From 0.9.4 a mod can also add its own buildings and objects, tools, panels and map views. To see every value the game uses, run `sgtool dump-data somefolder`; the full guide is
 [MODDING.md](https://github.com/crspytopgn/opensgolf/blob/main/docs/MODDING.md).
 
 **One rule above all:** a mod must never contain SimGolf's own files (its pictures, sounds, music, videos or data), not

@@ -34,6 +34,21 @@
       ]
     },
     {
+      "id": "example-neighbourhood",
+      "name": "Neighbourhood (example of new objects)",
+      "version": "1.0.0",
+      "kind": "mod",
+      "licence": "CC0-1.0",
+      "authors": [
+        "OpenSGolf contributors"
+      ],
+      "description": "Roads, houses and a residents' association with levels, a panel, a tool and a map view. An example of what packs can add: copy it and make it your own.",
+      "url": "dist/example-neighbourhood-1.0.0.zip",
+      "sha256": "43b535381af482d65b93ebe9cdc62095ca199d589ed32a3c9da03f18fc6092f0",
+      "size": 23688,
+      "requires": []
+    },
+    {
       "id": "example-rank-names",
       "name": "New Rank Names (example)",
       "version": "1.0.0",

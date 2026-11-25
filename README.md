@@ -61,6 +61,6 @@ The format is described in the game's
 
 ## Support the project
 
-OpenSGolf is free and open source. If it's useful to you, you can [sponsor me on GitHub](https://github.com/sponsors/crspytopgn) or [buy me a coffee](https://buymeacoffee.com/crspytopgn). It helps pay for the tools these projects are built with.
+OpenSGolf is free and open source. If it's useful to you, you can [sponsor me on GitHub](https://github.com/sponsors/crspytopgn) [buy me a coffee](https://buymeacoffee.com/crspytopgn) or [support me on Ko-fi](https://ko-fi.com/crspytopgn). It helps pay for the tools these projects are built with.
 
 More from me: [OpenMCM2](https://github.com/crspytopgn/openmcm2) · [OpenLinks2003](https://github.com/crspytopgn/openlinks2003) · [Pitwall](https://github.com/crspytopgn/pitwall).

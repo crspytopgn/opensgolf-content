@@ -1,0 +1,12 @@
+[pack]
+id = "simgolf-hd-ea-2x"
+name = "SimGolf HD 2x (EA art)"
+version = "0.1.0"
+kind = "mod"
+api = 2
+authors = ["Michael Carruthers"]
+license = "LicenseRef-EA-Permission-2026-11-26"
+description = "The original SimGolf art, AI upscaled 2x so the game looks sharper. Made from EA art under the EA permission dated 2026-11-26, see PERMISSION.md."
+requires = ["original >= 1.0"]
+conflicts = []
+scale = 2

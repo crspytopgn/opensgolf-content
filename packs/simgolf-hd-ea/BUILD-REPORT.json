@@ -1,0 +1,16 @@
+{
+  "format": "webp",
+  "webp_quality": 95,
+  "webp_lossless": false,
+  "scale": 4,
+  "method": "ai:realesr-general-wdn-x4v3",
+  "sprites": 703,
+  "frames_json": 191,
+  "skipped_people": 582,
+  "skipped_shadow": 607,
+  "skipped_limit": 1,
+  "skipped": [
+    "Bldgs/links/CastleL2_ANIM.png: too wide for the game's PNG decoder at 4x, falls back to the classic art"
+  ],
+  "bytes": 170725890
+}

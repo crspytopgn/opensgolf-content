@@ -18,7 +18,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PACKS, DIST = os.path.join(ROOT, "packs"), os.path.join(ROOT, "dist")
 # free licences only (SPDX identifiers)
 LICENCES = {"CC0-1.0", "CC-BY-4.0", "CC-BY-SA-4.0", "GPL-2.0-or-later", "GPL-3.0-or-later", "MIT", "Apache-2.0",
-            "OFL-1.1", "Unlicense", "CC-BY-3.0", "CC-BY-SA-3.0", "LGPL-2.1-or-later", "BSD-3-Clause", "MPL-2.0"}
+            "OFL-1.1", "Unlicense", "CC-BY-3.0", "CC-BY-SA-3.0", "LGPL-2.1-or-later", "BSD-3-Clause", "MPL-2.0", "LicenseRef-EA-Permission-2026-11-26"}  # EA permission licence for the SimGolf HD pack only, not a free licence
 KINDS = {"mod", "translation", "scenario", "base"}
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{1,63}$")
 VERSION_RE = re.compile(r"^\d+\.\d+\.\d+$")

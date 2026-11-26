@@ -1,0 +1,14 @@
+{
+  "format": "webp",
+  "webp_quality": 95,
+  "webp_lossless": false,
+  "scale": 2,
+  "method": "ai:realesr-general-wdn-x4v3",
+  "sprites": 704,
+  "frames_json": 192,
+  "skipped_people": 582,
+  "skipped_shadow": 607,
+  "skipped_limit": 0,
+  "skipped": [],
+  "bytes": 62515058
+}

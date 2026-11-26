@@ -24,7 +24,7 @@ ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{1,63}$")
 VERSION_RE = re.compile(r"^\d+\.\d+\.\d+$")
 # the original game's file types: a pack must not carry the original's files
 SUSPECT = (".pcx", ".flc", ".bik", ".dta", ".chr", ".glf", ".pro", ".exe", ".dll")
-MAX_ZIP = 50 * 1024 * 1024
+MAX_ZIP = 256 * 1024 * 1024
 
 
 def deterministic_zip(folder, out):
